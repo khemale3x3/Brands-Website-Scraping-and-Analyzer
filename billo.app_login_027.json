@@ -1,0 +1,44 @@
+{
+  "url": "https://billo.app/login/",
+  "title": "Billo",
+  "description": null,
+  "status_code": 200,
+  "load_time": 6.166705369949341,
+  "word_count": 3,
+  "page_type": "general",
+  "is_about_page": false,
+  "is_contact_page": false,
+  "depth": 0,
+  "json_ld": [],
+  "meta_tags": [
+    {
+      "http-equiv": "Pragma",
+      "content": "no-cache"
+    },
+    {
+      "http-equiv": "cache-control",
+      "content": "no-cache, no-store, must-revalidate"
+    },
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1.0, maximum-scale=1.0, target-densityDpi=device-dpi"
+    },
+    {
+      "name": "theme-color",
+      "content": "#4a0efb"
+    },
+    {
+      "name": "msapplication-TileColor",
+      "content": "#ffffff#"
+    },
+    {
+      "name": "msapplication-TileImage",
+      "content": "/static/favico5/production/ms-icon-144x144.png"
+    },
+    {
+      "name": "theme-color",
+      "content": "#ffffff"
+    }
+  ],
+  "google_maps_found": []
+}

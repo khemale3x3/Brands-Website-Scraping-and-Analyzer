@@ -1,0 +1,23 @@
+{
+  "domain": "afluencer.com",
+  "main_url": "https://afluencer.com/#/influencers",
+  "total_pages": 1038,
+  "total_links": 0,
+  "crawl_depth_reached": 0,
+  "website_structure_complexity": "Complex",
+  "internal_links": [],
+  "external_links": [],
+  "social_links": [],
+  "contact_links": [],
+  "google_maps_info": {
+    "maps_links": [],
+    "iframe_embeds": [],
+    "javascript_maps": [],
+    "structured_data_maps": [],
+    "contact_page_maps": [],
+    "all_maps_links": [],
+    "primary_maps_link": "",
+    "maps_integration_status": "Not Found",
+    "total_maps_found": 0
+  }
+}

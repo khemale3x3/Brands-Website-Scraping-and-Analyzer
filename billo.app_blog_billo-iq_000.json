@@ -1,0 +1,297 @@
+{
+  "url": "https://billo.app/blog/billo-iq/",
+  "title": "Billo IQ Launches the Industry’s Smartest Data-Driven Brief Builder",
+  "description": "Explore the Billo IQ Brief Builder - the first-of-its-kind tool that converts any product link into four data‑backed briefs and matches it with creators.",
+  "status_code": 200,
+  "load_time": 3.93684720993042,
+  "word_count": 1293,
+  "page_type": "blog",
+  "is_about_page": false,
+  "is_contact_page": false,
+  "depth": 0,
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://billo.app/#organization",
+          "name": "Billo",
+          "url": "https://billo.app",
+          "sameAs": [
+            "https://www.facebook.com/billoglobal"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://billo.app/#website",
+          "url": "https://billo.app",
+          "name": "Billo",
+          "publisher": {
+            "@id": "https://billo.app/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://billo.app/wp-content/uploads/2025/07/Jun25_Billo-IQ_Image_16x9.png",
+          "url": "https://billo.app/wp-content/uploads/2025/07/Jun25_Billo-IQ_Image_16x9.png",
+          "width": "800",
+          "height": "450",
+          "caption": "Billo IQ",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://billo.app/blog/billo-iq/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://billo.app",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://billo.app/blog/billo-iq/",
+                "name": "Billo IQ Launches the Industry’s Smartest Data-Driven Brief Builder"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://billo.app/blog/billo-iq/#webpage",
+          "url": "https://billo.app/blog/billo-iq/",
+          "name": "Billo IQ Launches the Industry’s Smartest Data-Driven Brief Builder",
+          "datePublished": "2025-07-08T08:26:06+00:00",
+          "dateModified": "2025-07-21T09:02:10+00:00",
+          "isPartOf": {
+            "@id": "https://billo.app/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://billo.app/wp-content/uploads/2025/07/Jun25_Billo-IQ_Image_16x9.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://billo.app/blog/billo-iq/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://billo.app/author/donatas/",
+          "name": "Donatas Smailys",
+          "url": "https://billo.app/author/donatas/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/3fb87e51bc5c6a3d2ae10145e60579ee68b3e8ae5e531e7053cc5fffe7f20ea6?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/3fb87e51bc5c6a3d2ae10145e60579ee68b3e8ae5e531e7053cc5fffe7f20ea6?s=96&amp;d=mm&amp;r=g",
+            "caption": "Donatas Smailys",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://billo.app/#organization"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Billo IQ Launches the Industry’s Smartest Data-Driven Brief Builder",
+          "keywords": "Billo IQ",
+          "datePublished": "2025-07-08T08:26:06+00:00",
+          "dateModified": "2025-07-21T09:02:10+00:00",
+          "author": {
+            "@id": "https://billo.app/author/donatas/",
+            "name": "Donatas Smailys"
+          },
+          "publisher": {
+            "@id": "https://billo.app/#organization"
+          },
+          "description": "Explore the Billo IQ Brief Builder - the first-of-its-kind tool that converts any product link into four data‑backed briefs and matches it with creators.",
+          "name": "Billo IQ Launches the Industry’s Smartest Data-Driven Brief Builder",
+          "@id": "https://billo.app/blog/billo-iq/#richSnippet",
+          "isPartOf": {
+            "@id": "https://billo.app/blog/billo-iq/#webpage"
+          },
+          "image": {
+            "@id": "https://billo.app/wp-content/uploads/2025/07/Jun25_Billo-IQ_Image_16x9.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://billo.app/blog/billo-iq/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "meta_tags": [
+    {
+      "http-equiv": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "http-equiv": "Content-Type",
+      "content": "text/html; charset=utf-8"
+    },
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Explore the Billo IQ Brief Builder - the first-of-its-kind tool that converts any product link into four data‑backed briefs and matches it with creators."
+    },
+    {
+      "name": "robots",
+      "content": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_US"
+    },
+    {
+      "property": "og:type",
+      "content": "article"
+    },
+    {
+      "property": "og:title",
+      "content": "Billo IQ Launches the Industry’s Smartest Data-Driven Brief Builder"
+    },
+    {
+      "property": "og:description",
+      "content": "Explore the Billo IQ Brief Builder - the first-of-its-kind tool that converts any product link into four data‑backed briefs and matches it with creators."
+    },
+    {
+      "property": "og:url",
+      "content": "https://billo.app/blog/billo-iq/"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Billo"
+    },
+    {
+      "property": "article:publisher",
+      "content": "https://www.facebook.com/billoglobal"
+    },
+    {
+      "property": "article:section",
+      "content": "Billo News"
+    },
+    {
+      "property": "og:updated_time",
+      "content": "2025-07-21T09:02:10+00:00"
+    },
+    {
+      "property": "og:image",
+      "content": "https://billo.app/wp-content/uploads/2025/07/Jun25_Billo-IQ_Image_16x9.png"
+    },
+    {
+      "property": "og:image:secure_url",
+      "content": "https://billo.app/wp-content/uploads/2025/07/Jun25_Billo-IQ_Image_16x9.png"
+    },
+    {
+      "property": "og:image:width",
+      "content": "800"
+    },
+    {
+      "property": "og:image:height",
+      "content": "450"
+    },
+    {
+      "property": "og:image:alt",
+      "content": "Billo IQ"
+    },
+    {
+      "property": "og:image:type",
+      "content": "image/png"
+    },
+    {
+      "property": "article:published_time",
+      "content": "2025-07-08T08:26:06+00:00"
+    },
+    {
+      "property": "article:modified_time",
+      "content": "2025-07-21T09:02:10+00:00"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Billo IQ Launches the Industry’s Smartest Data-Driven Brief Builder"
+    },
+    {
+      "name": "twitter:description",
+      "content": "Explore the Billo IQ Brief Builder - the first-of-its-kind tool that converts any product link into four data‑backed briefs and matches it with creators."
+    },
+    {
+      "name": "twitter:image",
+      "content": "https://billo.app/wp-content/uploads/2025/07/Jun25_Billo-IQ_Image_16x9.png"
+    },
+    {
+      "name": "twitter:label1",
+      "content": "Written by"
+    },
+    {
+      "name": "twitter:data1",
+      "content": "Donatas Smailys"
+    },
+    {
+      "name": "twitter:label2",
+      "content": "Time to read"
+    },
+    {
+      "name": "twitter:data2",
+      "content": "4 minutes"
+    },
+    {
+      "name": "msapplication-TileImage",
+      "content": "https://billo.app/wp-content/uploads/2024/10/favicon-2.webp"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_US"
+    },
+    {
+      "property": "og:type",
+      "content": "article"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Billo"
+    },
+    {
+      "property": "article:published_time",
+      "content": "2025-07-08T08:26:06+00:00"
+    },
+    {
+      "property": "article:modified_time",
+      "content": "2025-07-21T09:02:10+00:00"
+    },
+    {
+      "name": "author",
+      "content": "Donatas Smailys"
+    },
+    {
+      "property": "og:image",
+      "content": "https://billo.app/wp-content/uploads/2025/07/Jun25_Billo-IQ_Image_16x9.png"
+    },
+    {
+      "property": "og:image:width",
+      "content": "800"
+    },
+    {
+      "property": "og:image:height",
+      "content": "450"
+    },
+    {
+      "property": "og:image:type",
+      "content": "image/png"
+    }
+  ],
+  "google_maps_found": []
+}

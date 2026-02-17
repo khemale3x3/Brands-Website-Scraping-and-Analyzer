@@ -1,0 +1,221 @@
+{
+  "url": "https://billo.app/book-a-call/",
+  "title": "Book a call - Billo",
+  "description": null,
+  "status_code": 200,
+  "load_time": 8.385635137557983,
+  "word_count": 241,
+  "page_type": "general",
+  "is_about_page": false,
+  "is_contact_page": false,
+  "depth": 0,
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://billo.app/#organization",
+          "name": "Billo",
+          "url": "https://billo.app",
+          "sameAs": [
+            "https://www.facebook.com/billoglobal"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://billo.app/#website",
+          "url": "https://billo.app",
+          "name": "Billo",
+          "publisher": {
+            "@id": "https://billo.app/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://billo.app/book-a-call/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://billo.app",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://billo.app/book-a-call/",
+                "name": "Book a call"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://billo.app/book-a-call/#webpage",
+          "url": "https://billo.app/book-a-call/",
+          "name": "Book a call - Billo",
+          "datePublished": "2025-03-28T10:50:52+00:00",
+          "dateModified": "2025-05-07T05:56:33+00:00",
+          "isPartOf": {
+            "@id": "https://billo.app/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://billo.app/book-a-call/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://billo.app/author/lukas-elnis/",
+          "name": "Lukas",
+          "url": "https://billo.app/author/lukas-elnis/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/4ece4753d1bf94baafbdd34cff6ce46c659488cdcbe60c7c2fb9e48fe4f756df?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/4ece4753d1bf94baafbdd34cff6ce46c659488cdcbe60c7c2fb9e48fe4f756df?s=96&amp;d=mm&amp;r=g",
+            "caption": "Lukas",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://billo.app/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Book a call - Billo",
+          "datePublished": "2025-03-28T10:50:52+00:00",
+          "dateModified": "2025-05-07T05:56:33+00:00",
+          "author": {
+            "@id": "https://billo.app/author/lukas-elnis/",
+            "name": "Lukas"
+          },
+          "publisher": {
+            "@id": "https://billo.app/#organization"
+          },
+          "description": "PGRpdiBjbGFzcz0iYy1mLWMtdGFnLWJsb2NrIj4KCTxkaXYgY2xhc3M9ImMtZi1jLXQtd3JhcHBlciI+CgkJPHN2ZyB3aWR0aD0iNzEiIGhlaWdodD0iMjIiIHZpZXdCb3g9IjAgMCA3MSAyMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KCQk8ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfMTUwMTRfMTUzNykiPgoJCTxwYXRoIGQ9Ik0xMS41IDIxQzE3LjAyMjggMjEgMjEuNSAxNi41MjI4IDIxLjUgMTFDMjEuNSA1LjQ3NzE1IDE3LjAyMjggMSAxMS41IDFDNS45NzcxNSAxIDEuNSA1LjQ3NzE1IDEuNSAxMUMxLjUgMTYuNTIyOCA1Ljk3NzE1IDIxIDExLjUgMjFaIiBmaWxsPSIjRjBGMEYwIi8+CgkJPHBhdGggZD0iTTExLjA2NTEgMTFIMjEuNDk5OEMyMS40OTk4IDEwLjA5NzQgMjEuMzc5NSA5LjIyMzA1IDIxLjE1NTMgOC4zOTEzSDExLjA2NTFWMTFaIiBmaWxsPSIjRDgwMDI3Ii8+CgkJPHBhdGggZD0iTTExLjA2NTEgNS43ODIxMUgyMC4wMzIxQzE5LjQxOTkgNC43ODMyMSAxOC42MzczIDMuOTAwMjggMTcuNzI0NyAzLjE3MzRIMTEuMDY1MVY1Ljc4MjExWiIgZmlsbD0iI0Q4MDAyNyIvPgoJCTxwYXRoIGQ9Ik0xMS40OTk5IDIxQzEzLjg1MzMgMjEgMTYuMDE2NSAyMC4xODY2IDE3LjcyNDcgMTguODI2MUg1LjI3NTAyQzYuOTgzMjMgMjAuMTg2NiA5LjE0NjM5IDIxIDExLjQ5OTkgMjFaIiBmaWxsPSIjRDgwMDI3Ii8+CgkJPHBhdGggZD0iTTIuOTY3NiAxNi4yMTY2SDIwLjAzMjFDMjAuNTIzNiAxNS40MTQ3IDIwLjkwNDcgMTQuNTM4MSAyMS4xNTU0IDEzLjYwNzlIMS44NDQzNkMyLjA5NTAyIDE0LjUzODEgMi40NzYxNiAxNS40MTQ3IDIuOTY3NiAxNi4yMTY2WiIgZmlsbD0iI0Q4MDAyNyIvPgoJCTxwYXRoIGQ9Ik02LjEzMjE5IDIuNTYxNjRINy4wNDM0OEw2LjE5NTgyIDMuMTc3NDZMNi41MTk2MSA0LjE3MzkxTDUuNjcxOTkgMy41NTgwOUw0LjgyNDM3IDQuMTczOTFMNS4xMDQwNiAzLjMxMzA5QzQuMzU3NzMgMy45MzQ3NyAzLjcwMzU5IDQuNjYzMTMgMy4xNjQ1MyA1LjQ3NDY5SDMuNDU2NTJMMi45MTY5NSA1Ljg2NjY4QzIuODMyODkgNi4wMDY5MSAyLjc1MjI3IDYuMTQ5MzcgMi42NzUgNi4yOTM5NUwyLjkzMjY2IDcuMDg2OTVMMi40NTE5NSA2LjczNzdDMi4zMzI0NiA2Ljk5MDg2IDIuMjIzMTYgNy4yNDk3MyAyLjEyNDkyIDcuNTEzOThMMi40MDg3OSA4LjM4NzczSDMuNDU2NTJMMi42MDg4NyA5LjAwMzU2TDIuOTMyNjYgMTBMMi4wODUwNCA5LjM4NDE4TDEuNTc3MyA5Ljc1MzA5QzEuNTI2NDggMTAuMTYxNiAxLjUgMTAuNTc3NyAxLjUgMTFIMTEuNUMxMS41IDUuNDc3MTkgMTEuNSA0LjgyNjA5IDExLjUgMUM5LjUyNDUzIDEgNy42ODMwMSAxLjU3MzA1IDYuMTMyMTkgMi41NjE2NFpNNi41MTk2MSAxMEw1LjY3MTk5IDkuMzg0MThMNC44MjQzNyAxMEw1LjE0ODE2IDkuMDAzNTZMNC4zMDA1MSA4LjM4NzczSDUuMzQ4MjRMNS42NzE5OSA3LjM5MTI5TDUuOTk1NzQgOC4zODc3M0g3LjA0MzQ4TDYuMTk1ODIgOS4wMDM1Nkw2LjUxOTYxIDEwWk02LjE5NTgyIDYuMDkwNTFMNi41MTk2MSA3LjA4Njk1TDUuNjcxOTkgNi40NzExM0w0LjgyNDM3IDcuMDg2OTVMNS4xNDgxNiA2LjA5MDUxTDQuMzAwNTEgNS40NzQ2OUg1LjM0ODI0TDUuNjcxOTkgNC40NzgyNEw1Ljk5NTc0IDUuNDc0NjlINy4wNDM0OEw2LjE5NTgyIDYuMDkwNTFaTTEwLjEwNjYgMTBMOS4yNTg5NSA5LjM4NDE4TDguNDExMzMgMTBMOC43MzUxMiA5LjAwMzU2TDcuODg3NDYgOC4zODc3M0g4LjkzNTJMOS4yNTg5NSA3LjM5MTI5TDkuNTgyNyA4LjM4NzczSDEwLjYzMDRMOS43ODI3NyA5LjAwMzU2TDEwLjEwNjYgMTBaTTkuNzgyNzcgNi4wOTA1MUwxMC4xMDY2IDcuMDg2OTVMOS4yNTg5NSA2LjQ3MTEzTDguNDExMzMgNy4wODY5NUw4LjczNTEyIDYuMDkwNTFMNy44ODc0NiA1LjQ3NDY5SDguOTM1Mkw5LjI1ODk1IDQuNDc4MjRMOS41ODI3IDUuNDc0NjlIMTAuNjMwNEw5Ljc4Mjc3IDYuMDkwNTFaTTkuNzgyNzcgMy4xNzc0NkwxMC4xMDY2IDQuMTczOTFMOS4yNTg5NSAzLjU1ODA5TDguNDExMzMgNC4xNzM5MUw4LjczNTEyIDMuMTc3NDZMNy44ODc0NiAyLjU2MTY0SDguOTM1Mkw5LjI1ODk1IDEuNTY1Mkw5LjU4MjcgMi41NjE2NEgxMC42MzA0TDkuNzgyNzcgMy4xNzc0NloiIGZpbGw9IiMwMDUyQjQiLz4KCQk8L2c+CgkJPGNpcmNsZSBjeD0iMTEuNSIgY3k9IjExIiByPSIxMC41IiBzdHJva2U9IiNGQUY4RkYiLz4KCQk8ZyBjbGlwLXBhdGg9InVybCgjY2xpcDFfMTUwMTRfMTUzNykiPgoJCTxwYXRoIGQ9Ik0yNy41IDIxQzMzLjAyMjggMjEgMzcuNSAxNi41MjI4IDM3LjUgMTFDMzcuNSA1LjQ3NzE1IDMzLjAyMjggMSAyNy41IDFDMjEuOTc3MiAxIDE3LjUgNS40NzcxNSAxNy41IDExQzE3LjUgMTYuNTIyOCAyMS45NzcyIDIxIDI3LjUgMjFaIiBmaWxsPSIjRjBGMEYwIi8+CgkJPHBhdGggZD0iTTM3LjUwMDcgMTEuMDAwOUMzNy41MDA3IDcuMDM2MjcgMzUuMTkzNSAzLjYxMDY1IDMxLjg0ODUgMS45OTMxNVYyMC4wMDg2QzM1LjE5MzUgMTguMzkxMSAzNy41MDA3IDE0Ljk2NTUgMzcuNTAwNyAxMS4wMDA5WiIgZmlsbD0iI0Q4MDAyNyIvPgoJCTxwYXRoIGQ9Ik0xNy41MDA0IDExLjAwMDNDMTcuNTAwNCAxNC45NjQ5IDE5LjgwNzYgMTguMzkwNiAyMy4xNTI2IDIwLjAwODFWMS45OTI2QzE5LjgwNzYgMy42MTAxIDE3LjUwMDQgNy4wMzU3MiAxNy41MDA0IDExLjAwMDNaIiBmaWxsPSIjRDgwMDI3Ii8+CgkJPHBhdGggZD0iTTI5LjIzOTYgMTIuMzA1MkwzMC45Nzg3IDExLjQzNTZMMzAuMTA5MiAxMS4wMDA4VjEwLjEzMTNMMjguMzcgMTEuMDAwOEwyOS4yMzk2IDkuMjYxN0gyOC4zN0wyNy41MDA1IDcuOTU3MzdMMjYuNjMwOSA5LjI2MTdIMjUuNzYxM0wyNi42MzA5IDExLjAwMDhMMjQuODkxNyAxMC4xMzEzVjExLjAwMDhMMjQuMDIyMiAxMS40MzU2TDI1Ljc2MTMgMTIuMzA1MkwyNS4zMjY2IDEzLjE3NDhIMjcuMDY1N1YxNC40NzkxSDI3LjkzNTJWMTMuMTc0OEgyOS42NzQ0TDI5LjIzOTYgMTIuMzA1MloiIGZpbGw9IiNEODAwMjciLz4KCQk8L2c+CgkJPGNpcmNsZSBjeD0iMjcuNSIgY3k9IjExIiByPSIxMC41IiBzdHJva2U9IiNGQUY4RkYiLz4KCQk8ZyBjbGlwLXBhdGg9InVybCgjY2xpcDJfMTUwMTRfMTUzNykiPgoJCTxwYXRoIGQ9Ik00My41IDIxQzQ5LjAyMjggMjEgNTMuNSAxNi41MjI4IDUzLjUgMTFDNTMuNSA1LjQ3NzE1IDQ5LjAyMjggMSA0My41IDFDMzcuOTc3MiAxIDMzLjUgNS40NzcxNSAzMy41IDExQzMzLjUgMTYuNTIyOCAzNy45NzcyIDIxIDQzLjUgMjFaIiBmaWxsPSIjRjBGMEYwIi8+CgkJPHBhdGggZD0iTTM1LjU2NzIgNC45MTA4M0MzNC43ODE3IDUuOTMyODIgMzQuMTg5NCA3LjExMDc1IDMzLjg0NDUgOC4zOTA0SDM5LjA0NjdMMzUuNTY3MiA0LjkxMDgzWiIgZmlsbD0iIzAwNTJCNCIvPgoJCTxwYXRoIGQ9Ik01My4xNTU4IDguMzkwNTNDNTIuODEwOSA3LjExMDkyIDUyLjIxODYgNS45MzI5OSA1MS40MzMxIDQuOTExTDQ3Ljk1MzYgOC4zOTA1M0g1My4xNTU4WiIgZmlsbD0iIzAwNTJCNCIvPgoJCTxwYXRoIGQ9Ik0zMy44NDQ1IDEzLjYwODVDMzQuMTg5NCAxNC44ODgxIDM0Ljc4MTcgMTYuMDY2MSAzNS41NjcyIDE3LjA4OEwzOS4wNDY2IDEzLjYwODVIMzMuODQ0NVoiIGZpbGw9IiMwMDUyQjQiLz4KCQk8cGF0aCBkPSJNNDkuNTg3OSAzLjA2NjQ5QzQ4LjU2NTkgMi4yODA5OCA0Ny4zODggMS42ODg2NyA0Ni4xMDg0IDEuMzQzNzVWNi41NDU5OEw0OS41ODc5IDMuMDY2NDlaIiBmaWxsPSIjMDA1MkI0Ii8+CgkJPHBhdGggZD0iTTM3LjQxMTYgMTguOTMxNEMzOC40MzM2IDE5LjcxNjkgMzkuNjExNSAyMC4zMDkyIDQwLjg5MTIgMjAuNjU0MlYxNS40NTJMMzcuNDExNiAxOC45MzE0WiIgZmlsbD0iIzAwNTJCNCIvPgoJCTxwYXRoIGQ9Ik00MC44OTExIDEuMzQzNzVDMzkuNjExNSAxLjY4ODY3IDM4LjQzMzYgMi4yODA5OCAzNy40MTE2IDMuMDY2NDRMNDAuODkxMSA2LjU0NTkzVjEuMzQzNzVaIiBmaWxsPSIjMDA1MkI0Ii8+CgkJPHBhdGggZD0iTTQ2LjEwODQgMjAuNjU0MkM0Ny4zODggMjAuMzA5MiA0OC41NjU5IDE5LjcxNjkgNDkuNTg3OSAxOC45MzE1TDQ2LjEwODQgMTUuNDUyVjIwLjY1NDJaIiBmaWxsPSIjMDA1MkI0Ii8+CgkJPHBhdGggZD0iTTQ3Ljk1MzYgMTMuNjA4NUw1MS40MzMxIDE3LjA4OEM1Mi4yMTg2IDE2LjA2NjEgNTIuODEwOSAxNC44ODgxIDUzLjE1NTggMTMuNjA4NUg0Ny45NTM2WiIgZmlsbD0iIzAwNTJCNCIvPgoJCTxwYXRoIGQ9Ik01My40MTU0IDkuNjk1NjZINDQuODA0NEg0NC44MDQ0VjEuMDg0NjVDNDQuMzc3NCAxLjAyOTA2IDQzLjk0MjEgMSA0My41IDFDNDMuMDU3OSAxIDQyLjYyMjYgMS4wMjkwNiA0Mi4xOTU3IDEuMDg0NjVWOS42OTU1OVY5LjY5NTYzSDMzLjU4NDZDMzMuNTI5MSAxMC4xMjI2IDMzLjUgMTAuNTU3OSAzMy41IDExQzMzLjUgMTEuNDQyMSAzMy41MjkxIDExLjg3NzQgMzMuNTg0NiAxMi4zMDQzSDQyLjE5NTZINDIuMTk1NlYyMC45MTU0QzQyLjYyMjYgMjAuOTcwOSA0My4wNTc5IDIxIDQzLjUgMjFDNDMuOTQyMSAyMSA0NC4zNzc0IDIwLjk3MSA0NC44MDQzIDIwLjkxNTRWMTIuMzA0NFYxMi4zMDQ0SDUzLjQxNTRDNTMuNDcwOSAxMS44Nzc0IDUzLjUgMTEuNDQyMSA1My41IDExQzUzLjUgMTAuNTU3OSA1My40NzA5IDEwLjEyMjYgNTMuNDE1NCA5LjY5NTY2WiIgZmlsbD0iI0Q4MDAyNyIvPgoJCTxwYXRoIGQ9Ik00Ni4xMDg2IDEzLjYwOTRMNTAuNTcxIDE4LjA3MTdDNTAuNzc2MiAxNy44NjY2IDUwLjk3MiAxNy42NTIxIDUxLjE1ODggMTcuNDI5N0w0Ny4zMzg0IDEzLjYwOTNINDYuMTA4NlYxMy42MDk0WiIgZmlsbD0iI0Q4MDAyNyIvPgoJCTxwYXRoIGQ9Ik00MC44OTEyIDEzLjYwOTNINDAuODkxMUwzNi40Mjg4IDE4LjA3MTZDMzYuNjM0IDE4LjI3NjkgMzYuODQ4NSAxOC40NzI3IDM3LjA3MDggMTguNjU5NUw0MC44OTEyIDE0LjgzOVYxMy42MDkzWiIgZmlsbD0iI0Q4MDAyNyIvPgoJCTxwYXRoIGQ9Ik00MC44OTExIDguMzkwOTNWOC4zOTA4NUwzNi40Mjg4IDMuOTI4NDdDMzYuMjIzNSA0LjEzMzYyIDM2LjAyNzcgNC4zNDgxMiAzNS44NDA5IDQuNTcwNDZMMzkuNjYxNCA4LjM5MDg5SDQwLjg5MTFWOC4zOTA5M1oiIGZpbGw9IiNEODAwMjciLz4KCQk8cGF0aCBkPSJNNDYuMTA4NiA4LjM5MTgzTDUwLjU3MSAzLjkyOTRDNTAuMzY1OSAzLjcyNDE3IDUwLjE1MTQgMy41MjgzOSA0OS45MjkgMy4zNDE2M0w0Ni4xMDg2IDcuMTYyMDZWOC4zOTE4M1oiIGZpbGw9IiNEODAwMjciLz4KCQk8L2c+CgkJPGNpcmNsZSBjeD0iNDMuNSIgY3k9IjExIiByPSIxMC41IiBzdHJva2U9IiNGQUY4RkYiLz4KCQk8ZyBjbGlwLXBhdGg9InVybCgjY2xpcDNfMTUwMTRfMTUzNykiPgoJCTxwYXRoIGQ9Ik02OS41IDExQzY5LjUgMTYuNTIyOCA2NS4wMjI4IDIxIDU5LjUgMjFDNTMuOTc3MiAyMSA0OS41IDE2LjUyMjggNDkuNSAxMUM0OS41IDExLjAwMjMgNTkuNSAxLjAwMTEzIDU5LjUgMUM2NS4wMjI4IDEgNjkuNSA1LjQ3NzE5IDY5LjUgMTFaIiBmaWxsPSIjMDA1MkI0Ii8+CgkJPHBhdGggZD0iTTU5LjQ3MzEgMTEuMDAwM0g1OS41QzU5LjUgMTAuOTkxMyA1OS41IDEwLjk4MjYgNTkuNSAxMC45NzM1QzU5LjQ5MSAxMC45ODI1IDU5LjQ4MjEgMTAuOTkxNCA1OS40NzMxIDExLjAwMDNaIiBmaWxsPSIjRjBGMEYwIi8+CgkJPHBhdGggZD0iTTU5LjQ5OTkgNi4yMTc5MkM1OS40OTk5IDQuNDU4MzUgNTkuNDk5OSAzLjMwNTM0IDU5LjQ5OTkgMS4wMDA1M0g1OS40OTgyQzUzLjk3NjEgMS4wMDE0MyA0OS40OTk5IDUuNDc4MTkgNDkuNDk5OSAxMS4wMDA1SDU0LjcxNzNWOC4wNjI1M0w1Ny42NTUyIDExLjAwMDVINTkuNDczMkM1OS40ODIxIDEwLjk5MTYgNTkuNDkxIDEwLjk4MjcgNTkuNDk5OSAxMC45NzM3QzU5LjQ5OTkgMTAuMyA1OS40OTk5IDkuNjk4ODkgNTkuNDk5OSA5LjE1NTkyTDU2LjU2MTkgNi4yMTc5Mkg1OS40OTk5WiIgZmlsbD0iI0YwRjBGMCIvPgoJCTxwYXRoIGQ9Ik01NC41NTkzIDIuMzA0NzZDNTIuOTk1MyAzLjE5NTM1IDUxLjY5NSA0LjQ5NTU4IDUwLjgwNDQgNi4wNTk2MVYxMS4wMDA0SDUzLjQxMzJWNC45MTM1MVY0LjkxMzQ4SDU5LjUwMDFDNTkuNTAwMSA0LjA5MDcgNTkuNTAwMSAzLjMwNjg3IDU5LjUwMDEgMi4zMDQ3Nkg1NC41NTkzWiIgZmlsbD0iI0Q4MDAyNyIvPgoJCTxwYXRoIGQ9Ik01OS41MDAzIDkuNzcwNzZMNTUuOTQ3NSA2LjIxNzk0SDU0LjcxNzhDNTQuNzE3OCA2LjIxNzkgNTQuNzE3OCA2LjIxNzk0IDU0LjcxNzggNi4yMTc5NEw1OS41MDAzIDExLjAwMDVINTkuNTAwM0M1OS41MDAzIDExLjAwMDUgNTkuNTAwMyAxMC4xNTI2IDU5LjUwMDMgOS43NzA3NloiIGZpbGw9IiNEODAwMjciLz4KCQk8cGF0aCBkPSJNNTUuNTMxMyAxMi43Mzg3TDU2LjA4MDEgMTMuODg2M0w1Ny4zMTk1IDEzLjU5OThMNTYuNzY0NSAxNC43NDQ0TDU3Ljc2MTEgMTUuNTM0OEw1Ni41MjAyIDE1LjgxNDVMNTYuNTIzNyAxNy4wODY1TDU1LjUzMTMgMTYuMjkwN0w1NC41MzkgMTcuMDg2NUw1NC41NDI1IDE1LjgxNDVMNTMuMzAxNSAxNS41MzQ4TDU0LjI5ODIgMTQuNzQ0NEw1My43NDMxIDEzLjU5OThMNTQuOTgyNSAxMy44ODYzTDU1LjUzMTMgMTIuNzM4N1oiIGZpbGw9IiNGMEYwRjAiLz4KCQk8cGF0aCBkPSJNNjQuNDcyNSAxNC45MTI4TDY0Ljc0NyAxNS40ODY2TDY1LjM2NjYgMTUuMzQzM0w2NS4wODkxIDE1LjkxNTZMNjUuNTg3NSAxNi4zMTA4TDY0Ljk2NyAxNi40NTA3TDY0Ljk2ODcgMTcuMDg2N0w2NC40NzI1IDE2LjY4ODhMNjMuOTc2NCAxNy4wODY3TDYzLjk3ODEgMTYuNDUwN0w2My4zNTc3IDE2LjMxMDhMNjMuODU2IDE1LjkxNTZMNjMuNTc4NSAxNS4zNDMzTDY0LjE5ODEgMTUuNDg2Nkw2NC40NzI1IDE0LjkxMjhaIiBmaWxsPSIjRjBGMEYwIi8+CgkJPHBhdGggZD0iTTYxLjkxOTUgOC44MjYxN0w2Mi4xOTM5IDkuNEw2Mi44MTM1IDkuMjU2NzJMNjIuNTM2IDkuODI5MDJMNjMuMDM0NCAxMC4yMjQyTDYyLjQxMzkgMTAuMzY0MUw2Mi40MTU2IDExLjAwMDFMNjEuOTE5NSAxMC42MDIxTDYxLjQyMzMgMTEuMDAwMUw2MS40MjUgMTAuMzY0MUw2MC44MDQ2IDEwLjIyNDJMNjEuMzAyOSA5LjgyOTAyTDYxLjAyNTQgOS4yNTY3Mkw2MS42NDUxIDkuNEw2MS45MTk1IDguODI2MTdaIiBmaWxsPSIjRjBGMEYwIi8+CgkJPHBhdGggZD0iTTY0LjQ3MjUgNS4zNDgwMUw2NC43NDcgNS45MjE4NEw2NS4zNjY2IDUuNzc4NTlMNjUuMDg5MSA2LjM1MDlMNjUuNTg3NCA2Ljc0NjA2TDY0Ljk2NyA2Ljg4NTk0TDY0Ljk2ODcgNy41MjE5NUw2NC40NzI1IDcuMTI0MDJMNjMuOTc2NCA3LjUyMTk1TDYzLjk3ODEgNi44ODU5NEw2My4zNTc3IDYuNzQ2MDZMNjMuODU1OSA2LjM1MDlMNjMuNTc4NSA1Ljc3ODU5TDY0LjE5ODEgNS45MjE4NEw2NC40NzI1IDUuMzQ4MDFaIiBmaWxsPSIjRjBGMEYwIi8+CgkJPHBhdGggZD0iTTY2LjcwMTggNy45NTY0N0w2Ni45NzYyIDguNTMwMjlMNjcuNTk1OSA4LjM4NzAxTDY3LjMxODQgOC45NTkzMkw2Ny44MTY3IDkuMzU0NTFMNjcuMTk2MiA5LjQ5NDRMNjcuMTk4IDEwLjEzMDRMNjYuNzAxOCA5LjczMjQ4TDY2LjIwNTcgMTAuMTMwNEw2Ni4yMDczIDkuNDk0NEw2NS41ODY5IDkuMzU0NTFMNjYuMDg1MiA4Ljk1OTMyTDY1LjgwNzcgOC4zODcwMUw2Ni40Mjc0IDguNTMwMjlMNjYuNzAxOCA3Ljk1NjQ3WiIgZmlsbD0iI0YwRjBGMCIvPgoJCTxwYXRoIGQ9Ik02NS4xMDc3IDExLjAwMDNMNjUuMzIzNSAxMS42NjQ2SDY2LjAyMkw2NS40NTY5IDEyLjA3NTJMNjUuNjcyOCAxMi43Mzk0TDY1LjEwNzcgMTIuMzI4OUw2NC41NDI2IDEyLjczOTRMNjQuNzU4NCAxMi4wNzUyTDY0LjE5MzQgMTEuNjY0Nkg2NC44OTE4TDY1LjEwNzcgMTEuMDAwM1oiIGZpbGw9IiNGMEYwRjAiLz4KCQk8L2c+CgkJPGNpcmNsZSBjeD0iNTkuNSIgY3k9IjExIiByPSIxMC41IiBzdHJva2U9IiNGQUY4RkYiLz4KCQk8ZGVmcz4KCQk8Y2xpcFBhdGggaWQ9ImNsaXAwXzE1MDE0XzE1MzciPgoJCTxyZWN0IHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgZmlsbD0id2hpdGUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuNSAxKSIvPgoJCTwvY2xpcFBhdGg+CgkJPGNsaXBQYXRoIGlkPSJjbGlwMV8xNTAxNF8xNTM3Ij4KCQk8cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIGZpbGw9IndoaXRlIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNy41IDEpIi8+CgkJPC9jbGlwUGF0aD4KCQk8Y2xpcFBhdGggaWQ9ImNsaXAyXzE1MDE0XzE1MzciPgoJCTxyZWN0IHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgZmlsbD0id2hpdGUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDMzLjUgMSkiLz4KCQk8L2NsaXBQYXRoPgoJCTxjbGlwUGF0aCBpZD0iY2xpcDNfMTUwMTRfMTUzNyI+CgkJPHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiBmaWxsPSJ3aGl0ZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNDkuNSAxKSIvPgoJCTwvY2xpcFBhdGg+CgkJPC9kZWZzPgoJCTwvc3ZnPgoJCTxoND5DaG9vc2UgZnJvbSA1LDAwMCsgY3JlYXRvcnM8L2g0PgoJPC9kaXY+CjwvZGl2Pg==",
+          "name": "Book a call - Billo",
+          "@id": "https://billo.app/book-a-call/#richSnippet",
+          "isPartOf": {
+            "@id": "https://billo.app/book-a-call/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://billo.app/book-a-call/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "meta_tags": [
+    {
+      "http-equiv": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "http-equiv": "Content-Type",
+      "content": "text/html; charset=utf-8"
+    },
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "robots",
+      "content": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_US"
+    },
+    {
+      "property": "og:type",
+      "content": "article"
+    },
+    {
+      "property": "og:title",
+      "content": "Book a call - Billo"
+    },
+    {
+      "property": "og:url",
+      "content": "https://billo.app/book-a-call/"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Billo"
+    },
+    {
+      "property": "article:publisher",
+      "content": "https://www.facebook.com/billoglobal"
+    },
+    {
+      "property": "og:updated_time",
+      "content": "2025-05-07T05:56:33+00:00"
+    },
+    {
+      "property": "article:published_time",
+      "content": "2025-03-28T10:50:52+00:00"
+    },
+    {
+      "property": "article:modified_time",
+      "content": "2025-05-07T05:56:33+00:00"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Book a call - Billo"
+    },
+    {
+      "name": "twitter:label1",
+      "content": "Time to read"
+    },
+    {
+      "name": "twitter:data1",
+      "content": "23 minutes"
+    },
+    {
+      "name": "msapplication-TileImage",
+      "content": "https://billo.app/wp-content/uploads/2024/10/favicon-2.webp"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_US"
+    },
+    {
+      "property": "og:type",
+      "content": "article"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Billo"
+    },
+    {
+      "property": "article:modified_time",
+      "content": "2025-05-07T05:56:33+00:00"
+    },
+    {
+      "property": "og:image",
+      "content": "https://billo.app/wp-content/uploads/2023/04/billo-logo.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "0"
+    },
+    {
+      "property": "og:image:height",
+      "content": "0"
+    },
+    {
+      "property": "og:image:type",
+      "content": "image/svg+xml"
+    }
+  ],
+  "google_maps_found": []
+}

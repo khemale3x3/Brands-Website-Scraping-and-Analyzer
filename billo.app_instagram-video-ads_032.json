@@ -1,0 +1,234 @@
+{
+  "url": "https://billo.app/instagram-video-ads/",
+  "title": "Authentic UGC Instagram Video Ads - Billo.app",
+  "description": "Customize your order in minutes, access thousands of vetted creators, and get authentic Instagram video ads that drive results.",
+  "status_code": 200,
+  "load_time": 16.444141149520874,
+  "word_count": 1362,
+  "page_type": "general",
+  "is_about_page": false,
+  "is_contact_page": false,
+  "depth": 0,
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://billo.app/#organization",
+          "name": "Billo",
+          "url": "https://billo.app",
+          "sameAs": [
+            "https://www.facebook.com/billoglobal"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://billo.app/#website",
+          "url": "https://billo.app",
+          "name": "Billo",
+          "publisher": {
+            "@id": "https://billo.app/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://billo.app/instagram-video-ads/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://billo.app",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://billo.app/instagram-video-ads/",
+                "name": "Instagram Video Ads"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://billo.app/instagram-video-ads/#webpage",
+          "url": "https://billo.app/instagram-video-ads/",
+          "name": "Authentic UGC Instagram Video Ads - Billo.app",
+          "datePublished": "2025-07-21T10:29:56+00:00",
+          "dateModified": "2025-07-23T08:08:58+00:00",
+          "isPartOf": {
+            "@id": "https://billo.app/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://billo.app/instagram-video-ads/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://billo.app/author/lukas-elnis/",
+          "name": "Lukas",
+          "url": "https://billo.app/author/lukas-elnis/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/4ece4753d1bf94baafbdd34cff6ce46c659488cdcbe60c7c2fb9e48fe4f756df?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/4ece4753d1bf94baafbdd34cff6ce46c659488cdcbe60c7c2fb9e48fe4f756df?s=96&amp;d=mm&amp;r=g",
+            "caption": "Lukas",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://billo.app/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Authentic UGC Instagram Video Ads - Billo.app",
+          "keywords": "Instagram video ads",
+          "datePublished": "2025-07-21T10:29:56+00:00",
+          "dateModified": "2025-07-23T08:08:58+00:00",
+          "author": {
+            "@id": "https://billo.app/author/lukas-elnis/",
+            "name": "Lukas"
+          },
+          "publisher": {
+            "@id": "https://billo.app/#organization"
+          },
+          "description": "Customize your order in minutes, access thousands of vetted creators, and get authentic Instagram video ads that drive results.",
+          "name": "Authentic UGC Instagram Video Ads - Billo.app",
+          "@id": "https://billo.app/instagram-video-ads/#richSnippet",
+          "isPartOf": {
+            "@id": "https://billo.app/instagram-video-ads/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://billo.app/instagram-video-ads/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "meta_tags": [
+    {
+      "http-equiv": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "http-equiv": "Content-Type",
+      "content": "text/html; charset=utf-8"
+    },
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "Customize your order in minutes, access thousands of vetted creators, and get authentic Instagram video ads that drive results."
+    },
+    {
+      "name": "robots",
+      "content": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_US"
+    },
+    {
+      "property": "og:type",
+      "content": "article"
+    },
+    {
+      "property": "og:title",
+      "content": "Authentic UGC Instagram Video Ads - Billo.app"
+    },
+    {
+      "property": "og:description",
+      "content": "Customize your order in minutes, access thousands of vetted creators, and get authentic Instagram video ads that drive results."
+    },
+    {
+      "property": "og:url",
+      "content": "https://billo.app/instagram-video-ads/"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Billo"
+    },
+    {
+      "property": "article:publisher",
+      "content": "https://www.facebook.com/billoglobal"
+    },
+    {
+      "property": "og:updated_time",
+      "content": "2025-07-23T08:08:58+00:00"
+    },
+    {
+      "property": "article:published_time",
+      "content": "2025-07-21T10:29:56+00:00"
+    },
+    {
+      "property": "article:modified_time",
+      "content": "2025-07-23T08:08:58+00:00"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Authentic UGC Instagram Video Ads - Billo.app"
+    },
+    {
+      "name": "twitter:description",
+      "content": "Customize your order in minutes, access thousands of vetted creators, and get authentic Instagram video ads that drive results."
+    },
+    {
+      "name": "twitter:label1",
+      "content": "Time to read"
+    },
+    {
+      "name": "twitter:data1",
+      "content": "56 minutes"
+    },
+    {
+      "name": "msapplication-TileImage",
+      "content": "https://billo.app/wp-content/uploads/2024/10/favicon-2.webp"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_US"
+    },
+    {
+      "property": "og:type",
+      "content": "article"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Billo"
+    },
+    {
+      "property": "article:modified_time",
+      "content": "2025-07-23T08:08:58+00:00"
+    },
+    {
+      "property": "og:image",
+      "content": "https://billo.app/wp-content/uploads/2023/04/billo-logo.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "0"
+    },
+    {
+      "property": "og:image:height",
+      "content": "0"
+    },
+    {
+      "property": "og:image:type",
+      "content": "image/svg+xml"
+    }
+  ],
+  "google_maps_found": []
+}

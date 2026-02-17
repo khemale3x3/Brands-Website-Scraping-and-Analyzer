@@ -1,0 +1,164 @@
+{
+  "url": "https://billo.app/category/ad-performance/",
+  "title": "Ad Performance Archives - Billo",
+  "description": null,
+  "status_code": 200,
+  "load_time": 9.406161069869995,
+  "word_count": 475,
+  "page_type": "general",
+  "is_about_page": false,
+  "is_contact_page": false,
+  "depth": 0,
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://billo.app/#organization",
+          "name": "Billo",
+          "url": "https://billo.app",
+          "sameAs": [
+            "https://www.facebook.com/billoglobal"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://billo.app/#website",
+          "url": "https://billo.app",
+          "name": "Billo",
+          "publisher": {
+            "@id": "https://billo.app/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://billo.app/category/ad-performance/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://billo.app",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://billo.app/category/ad-performance/",
+                "name": "Ad Performance"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://billo.app/category/ad-performance/#webpage",
+          "url": "https://billo.app/category/ad-performance/",
+          "name": "Ad Performance Archives - Billo",
+          "isPartOf": {
+            "@id": "https://billo.app/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://billo.app/category/ad-performance/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "meta_tags": [
+    {
+      "http-equiv": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "http-equiv": "Content-Type",
+      "content": "text/html; charset=utf-8"
+    },
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "robots",
+      "content": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_US"
+    },
+    {
+      "property": "og:type",
+      "content": "article"
+    },
+    {
+      "property": "og:title",
+      "content": "Ad Performance Archives - Billo"
+    },
+    {
+      "property": "og:url",
+      "content": "https://billo.app/category/ad-performance/"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Billo"
+    },
+    {
+      "property": "article:publisher",
+      "content": "https://www.facebook.com/billoglobal"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Ad Performance Archives - Billo"
+    },
+    {
+      "name": "twitter:label1",
+      "content": "Posts"
+    },
+    {
+      "name": "twitter:data1",
+      "content": "13"
+    },
+    {
+      "name": "msapplication-TileImage",
+      "content": "https://billo.app/wp-content/uploads/2024/10/favicon-2.webp"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_US"
+    },
+    {
+      "property": "og:type",
+      "content": "article"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Billo"
+    },
+    {
+      "property": "og:image",
+      "content": "https://billo.app/wp-content/uploads/2025/09/Video-Advertising-Insights.png"
+    },
+    {
+      "property": "og:image:width",
+      "content": "800"
+    },
+    {
+      "property": "og:image:height",
+      "content": "450"
+    },
+    {
+      "property": "og:image:type",
+      "content": "image/png"
+    }
+  ],
+  "google_maps_found": []
+}

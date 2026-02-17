@@ -1,0 +1,217 @@
+{
+  "url": "https://billo.app/",
+  "title": "Billo.app - #1 UGC Platform For Video Ads",
+  "description": "200,000+ videos created. 22,000 brands served. You too can match with our talented creators and get authentic videos optimized for social ads performance.",
+  "status_code": 200,
+  "load_time": 6.646640300750732,
+  "word_count": 967,
+  "page_type": "general",
+  "is_about_page": false,
+  "is_contact_page": false,
+  "depth": 0,
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://billo.app/#organization",
+          "name": "Billo",
+          "url": "https://billo.app",
+          "sameAs": [
+            "https://www.facebook.com/billoglobal"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://billo.app/#website",
+          "url": "https://billo.app",
+          "name": "Billo",
+          "publisher": {
+            "@id": "https://billo.app/#organization"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://billo.app/?s={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://billo.app/#webpage",
+          "url": "https://billo.app/",
+          "name": "Billo.app - #1 UGC Platform For Video Ads",
+          "datePublished": "2025-07-28T14:15:20+00:00",
+          "dateModified": "2025-08-22T07:14:03+00:00",
+          "about": {
+            "@id": "https://billo.app/#organization"
+          },
+          "isPartOf": {
+            "@id": "https://billo.app/#website"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://billo.app/author/lukas-elnis/",
+          "name": "Lukas",
+          "url": "https://billo.app/author/lukas-elnis/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/4ece4753d1bf94baafbdd34cff6ce46c659488cdcbe60c7c2fb9e48fe4f756df?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/4ece4753d1bf94baafbdd34cff6ce46c659488cdcbe60c7c2fb9e48fe4f756df?s=96&amp;d=mm&amp;r=g",
+            "caption": "Lukas",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://billo.app/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Billo.app - #1 UGC Platform For Video Ads",
+          "keywords": "ugc platform",
+          "datePublished": "2025-07-28T14:15:20+00:00",
+          "dateModified": "2025-08-22T07:14:03+00:00",
+          "author": {
+            "@id": "https://billo.app/author/lukas-elnis/",
+            "name": "Lukas"
+          },
+          "publisher": {
+            "@id": "https://billo.app/#organization"
+          },
+          "description": "200,000+ videos created. 22,000 brands served. You too can match with our talented creators and get authentic videos optimized for social ads performance.",
+          "name": "Billo.app - #1 UGC Platform For Video Ads",
+          "@id": "https://billo.app/#richSnippet",
+          "isPartOf": {
+            "@id": "https://billo.app/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://billo.app/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "meta_tags": [
+    {
+      "http-equiv": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "http-equiv": "Content-Type",
+      "content": "text/html; charset=utf-8"
+    },
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "200,000+ videos created. 22,000 brands served. You too can match with our talented creators and get authentic videos optimized for social ads performance."
+    },
+    {
+      "name": "robots",
+      "content": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_US"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:title",
+      "content": "Billo.app - #1 UGC Platform For Video Ads"
+    },
+    {
+      "property": "og:description",
+      "content": "200,000+ videos created. 22,000 brands served. You too can match with our talented creators and get authentic videos optimized for social ads performance."
+    },
+    {
+      "property": "og:url",
+      "content": "https://billo.app/"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Billo"
+    },
+    {
+      "property": "og:updated_time",
+      "content": "2025-08-22T07:14:03+00:00"
+    },
+    {
+      "property": "article:published_time",
+      "content": "2025-07-28T14:15:20+00:00"
+    },
+    {
+      "property": "article:modified_time",
+      "content": "2025-08-22T07:14:03+00:00"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Billo.app - #1 UGC Platform For Video Ads"
+    },
+    {
+      "name": "twitter:description",
+      "content": "200,000+ videos created. 22,000 brands served. You too can match with our talented creators and get authentic videos optimized for social ads performance."
+    },
+    {
+      "name": "twitter:label1",
+      "content": "Written by"
+    },
+    {
+      "name": "twitter:data1",
+      "content": "Lukas"
+    },
+    {
+      "name": "twitter:label2",
+      "content": "Time to read"
+    },
+    {
+      "name": "twitter:data2",
+      "content": "100 minutes"
+    },
+    {
+      "name": "msapplication-TileImage",
+      "content": "https://billo.app/wp-content/uploads/2024/10/favicon-2.webp"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_US"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Billo"
+    },
+    {
+      "property": "og:image",
+      "content": "https://billo.app/wp-content/uploads/2023/04/billo-logo.svg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "0"
+    },
+    {
+      "property": "og:image:height",
+      "content": "0"
+    },
+    {
+      "property": "og:image:type",
+      "content": "image/svg+xml"
+    }
+  ],
+  "google_maps_found": []
+}
